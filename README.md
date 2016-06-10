@@ -1,4 +1,4 @@
-• SIMPLE PROJECT SETUP DESCRIPTION •
+# SIMPLE PROJECT SETUP
 
 Creating base projects is something that will serve you well. With what you know now, we are going to create a build that encompasses the basics.
 
